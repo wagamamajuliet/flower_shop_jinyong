@@ -1,0 +1,1 @@
+MIDDLEWARE.append('project.middleware.dev_cors_middleware')
